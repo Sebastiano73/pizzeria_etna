@@ -1,0 +1,905 @@
+{
+  "versione": "20/10/2026",
+  "pizze": [
+    {
+      "category": "pizzeClassiche",
+      "name": "Biancaneve",
+      "ingredients": [
+        "mozzarella",
+        "olio evo"
+      ],
+      "price": 5.0,
+      "priceMaxi": 10.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Bufala",
+      "ingredients": [
+        "mozzarella di bufala campana DOP",
+        "pomodoro fresco",
+        "rucola",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Capricciosa",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "funghi",
+        "uovo",
+        "prosciutto cotto",
+        "olio evo"
+      ],
+      "price": 7.5,
+      "priceMaxi": 15.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Dietetica",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "scaglie di grana",
+        "rucola",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Etna",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "funghi",
+        "salsiccia",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Margherita",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "olio evo"
+      ],
+      "price": 5.5,
+      "priceMaxi": 11.0,
+      "image": "assets/images/pizze/margherita.jpg"
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Montanara",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "funghi",
+        "salsiccia",
+        "spinaci",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Norma",
+      "ingredients": [
+        "salsa di pomodoro",
+        "melanzane",
+        "ricotta salata",
+        "basilico",
+        "olio evo"
+      ],
+      "price": 7.0,
+      "priceMaxi": 14.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Parmigiana",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "melanzane",
+        "prosciutto cotto",
+        "uovo",
+        "grana infornato",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Patatona",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "wurstel",
+        "patatine fritte"
+      ],
+      "price": 7.0,
+      "priceMaxi": 14.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Pesto",
+      "ingredients": [
+        "salsa di pomodoro",
+        "pesto",
+        "bufala campana DOP",
+        "melanzane",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Piccante",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "salame piccante",
+        "cipollina",
+        "olio piccante"
+      ],
+      "price": 7.0,
+      "priceMaxi": 14.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "4 formaggi",
+      "ingredients": [
+        "mozzarella",
+        "gorgonzola",
+        "edamer",
+        "parmigiano",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "4 stagioni",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "carciofini",
+        "funghi",
+        "melanzane",
+        "piselli",
+        "prosciutto cotto",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Romana",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "acciughe",
+        "olio evo"
+      ],
+      "price": 6.5,
+      "priceMaxi": 13.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "San Daniele",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "prosciutto crudo",
+        "olio evo"
+      ],
+      "price": 7.0,
+      "priceMaxi": 14.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Siciliana",
+      "ingredients": [
+        "pomodoro fresco",
+        "pepato",
+        "olive",
+        "acciughe",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Tonnata",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "tonno",
+        "cipollina",
+        "olio evo"
+      ],
+      "price": 7.5,
+      "priceMaxi": 15.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Cipollina",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "cipollina",
+        "prosciutto cotto",
+        "olive",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Contadina",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "olive",
+        "cipollina",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Fattoressa",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "acciughe",
+        "piselli",
+        "prosciutto cotto",
+        "olive",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeClassiche",
+      "name": "Gustosa",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "tonno",
+        "uova",
+        "olive",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Bresaola",
+      "ingredients": [
+        "mozzarella",
+        "bresaola",
+        "rucola",
+        "scaglie di grana"
+      ],
+      "price": 8.5,
+      "priceMaxi": 17.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Burrata",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "burrata",
+        "guanciale di suino nero",
+        "funghi cardoncelli trifolati"
+      ],
+      "price": 11.0,
+      "priceMaxi": 22.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Catanese",
+      "ingredients": [
+        "mozzarella",
+        "pomodori secchi",
+        "peperoni",
+        "cipolla",
+        "acciughe",
+        "mollica tostata"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Friarelli",
+      "ingredients": [
+        "mozzarella",
+        "tuma",
+        "friarelli",
+        "pomodori secchi",
+        "acciughe",
+        "mollica tostata",
+        "olio evo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Grigliata",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "zucchine",
+        "peperoni",
+        "grana infornato"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Lussuosa",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella di bufala campana DOP",
+        "porcini",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Madonie",
+      "ingredients": [
+        "mozzarella",
+        "patate al forno",
+        "cipollina",
+        "guanciale di suino nero",
+        "provola"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Monte Difeso",
+      "ingredients": [
+        "mozzarella",
+        "salsiccia",
+        "peperoni",
+        "cipollina",
+        "mollica tostata",
+        "olio evo"
+      ],
+      "price": 8.5,
+      "priceMaxi": 17.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Monte Troina",
+      "ingredients": [
+        "mozzarella",
+        "tuma",
+        "friarelli",
+        "salsiccia",
+        "mollica tostata",
+        "olio evo"
+      ],
+      "price": 8.5,
+      "priceMaxi": 17.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Monti Silvestri",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "mortadella",
+        "pomodoro fresco"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Nero dei Nebrodi",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "coppa di suino nero",
+        "scaglie di mandorle"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Pistacchio",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "porcini",
+        "olio evo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Provolina",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "provola affumicata",
+        "radicchio",
+        "salame piccante",
+        "funghi"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Reale",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella di bufala campana DOP",
+        "funghi",
+        "prosciutto crudo",
+        "olio evo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Rucola",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "prosciutto crudo",
+        "rucola",
+        "scaglie di grana",
+        "olio evo"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Saporita",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "porcini",
+        "cipollina",
+        "speck",
+        "olio evo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Sesamo",
+      "ingredients": [
+        "mozzarella",
+        "guanciale",
+        "funghi cardoncelli",
+        "cipollina",
+        "patate",
+        "semi di sesamo tostati"
+      ],
+      "price": 9.5,
+      "priceMaxi": 19.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Sfiziosa",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "provola affumicata",
+        "zucchine",
+        "speck"
+      ],
+      "price": 8.0,
+      "priceMaxi": 16.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Speciale",
+      "ingredients": [
+        "mozzarella di bufala campana DOP",
+        "radicchio",
+        "speck",
+        "olio evo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Speck",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "speck",
+        "scaglie di grana",
+        "olio evo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Truscia",
+      "ingredients": [
+        "gorgonzola",
+        "pepato",
+        "radicchio",
+        "speck",
+        "olive"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    },
+    {
+      "category": "pizzeSpeciali",
+      "name": "Tutto a crudo (ingredienti aggiunti a crudo)",
+      "ingredients": [
+        "mozzarella fior di latte",
+        "pomodoro fresco",
+        "rucola",
+        "scaglie di grana",
+        "prosciutto crudo"
+      ],
+      "price": 9.0,
+      "priceMaxi": 18.0
+    }
+  ],
+  "calzoniPane": [
+    {
+      "category": "calzoni",
+      "name": "Calzone Semplice",
+      "ingredients": [
+        "mozzarella",
+        "salsa di pomodoro",
+        "prosciutto cotto"
+      ],
+      "price": 7.0
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Verde",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella",
+        "spinaci",
+        "olive",
+        "olio evo"
+      ],
+      "price": 7.0
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Siciliano",
+      "ingredients": [
+        "tuma",
+        "acciughe",
+        "olive",
+        "pepe",
+        "sale",
+        "olio evo"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Pistacrock",
+      "ingredients": [
+        "mozzarella",
+        "pesto di pistacchio",
+        "porcini",
+        "salsiccia",
+        "granella di pistacchio"
+      ],
+      "price": 10.0
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Pistacotto",
+      "ingredients": [
+        "mozzarella",
+        "pesto di pistacchio",
+        "prosciutto cotto",
+        "provola"
+      ],
+      "price": 9.0
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Pistaspeck",
+      "ingredients": [
+        "mozzarella",
+        "pesto di pistacchio",
+        "speck",
+        "cipollina"
+      ],
+      "price": 9.5
+    },
+    {
+      "category": "paneCondito",
+      "name": "Etna",
+      "ingredients": [
+        "formaggio",
+        "pomodoro fresco",
+        "funghi",
+        "prosciutto crudo",
+        "olio",
+        "origano",
+        "pepe"
+      ],
+      "price": 8.5
+    },
+    {
+      "category": "paneCondito",
+      "name": "Patatone",
+      "ingredients": [
+        "formaggio",
+        "pomodoro",
+        "patatine",
+        "wurstel",
+        "olio",
+        "origano",
+        "pepe"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "paneCondito",
+      "name": "Siciliano",
+      "ingredients": [
+        "formaggio",
+        "pomodoro fresco",
+        "pepato fresco",
+        "olive",
+        "peperoncino",
+        "acciughe",
+        "olio",
+        "origano",
+        "pepe"
+      ],
+      "price": 8.5
+    },
+    {
+      "category": "paneCondito",
+      "name": "Semplice",
+      "ingredients": [
+        "formaggio",
+        "pomodoro fresco",
+        "prosciutto crudo",
+        "olive",
+        "olio",
+        "origano",
+        "pepe"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "paneCondito",
+      "name": "Verde",
+      "ingredients": [
+        "formaggio",
+        "pomodoro fresco",
+        "rucola",
+        "olive",
+        "olio",
+        "origano",
+        "pepe"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "paneCondito",
+      "name": "Rustico",
+      "ingredients": [
+        "formaggio",
+        "pomodoro fresco",
+        "salame piccante",
+        "uovo",
+        "olive",
+        "olio",
+        "origano",
+        "pepe"
+      ],
+      "price": 8.5
+    },
+    {
+      "category": "stuzzicheria",
+      "name": "Patatine fritte",
+      "price": 2.5
+    }
+  ],
+  "pizzoli": [
+    {
+      "category": "pizzoloEtna",
+      "name": "Acciughe",
+      "ingredients": [
+        "pepato fresco",
+        "acciughe",
+        "olive",
+        "olio evo"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Prosciutto crudo",
+      "ingredients": [
+        "mozzarella",
+        "pomodoro fresco",
+        "prosciutto crudo",
+        "olive",
+        "olio evo"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Tonno",
+      "ingredients": [
+        "mozzarella",
+        "tonno",
+        "olive",
+        "cipollina",
+        "olio evo"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Al Pistacchio",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "salsiccia",
+        "grana infornato",
+        "olio evo"
+      ],
+      "price": 9.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Sicilia Food Porn",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "provola",
+        "coppa di suino nero",
+        "grana infornato",
+        "scaglie di mandorle"
+      ],
+      "price": 10.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Grigliata",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "zucchine",
+        "peperoni",
+        "grana"
+      ],
+      "price": 8.5
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Monti Silvestri",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "mortadella",
+        "pomodoro fresco"
+      ],
+      "price": 9.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Rustica",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "olive",
+        "salame",
+        "uovo"
+      ],
+      "price": 8.0
+    },
+    {
+      "category": "pizzoloDolce",
+      "name": "Nutella",
+      "ingredients": [
+        "nutella",
+        "zucchero a velo",
+        "granella di nocciola"
+      ],
+      "price": 7.0
+    },
+    {
+      "category": "pizzoloDolce",
+      "name": "Pistacchio",
+      "ingredients": [
+        "crema di pistacchio",
+        "zucchero a velo",
+        "granella di nocciola"
+      ],
+      "price": 8.0
+    }
+  ],
+  "bibite": [
+    {
+      "category": "bibite",
+      "name": "Coca Cola 1,5 lt",
+      "price": 3.0
+    },
+    {
+      "category": "bibite",
+      "name": "Acqua naturale o frizzante 0,5 lt",
+      "price": 1.0
+    },
+    {
+      "category": "bibite",
+      "name": "Birra Moretti 66 cl",
+      "price": 3.0
+    },
+    {
+      "category": "bibite",
+      "name": "Birra Moretti 33 cl",
+      "price": 2.0
+    },
+    {
+      "category": "bibite",
+      "name": "Birra Heineken 66 cl",
+      "price": 3.0
+    },
+    {
+      "category": "bibite",
+      "name": "Birra Heineken 33 cl",
+      "price": 2.0
+    },
+    {
+      "category": "bibite",
+      "name": "Birra Ceres 33 cl",
+      "price": 3.5
+    },
+    {
+      "category": "bibite",
+      "name": "Birra Tennent's 33 cl",
+      "price": 3.5
+    }
+  ]
+}
