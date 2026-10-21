@@ -1,5 +1,5 @@
 {
-  "versione": "20/10/2026",
+  "versione": "21/10/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -864,7 +864,8 @@
     {
       "category": "bibite",
       "name": "Coca Cola 1,5 lt",
-      "price": 3.0
+      "price": 3.0,
+      "image": "assets/images/bevande/cocacola150.jpg"
     },
     {
       "category": "bibite",
@@ -874,22 +875,26 @@
     {
       "category": "bibite",
       "name": "Birra Moretti 66 cl",
-      "price": 3.0
+      "price": 3.0,
+      "image": "assets/images/bevande/moretti.jpg"
     },
     {
       "category": "bibite",
       "name": "Birra Moretti 33 cl",
-      "price": 2.0
+      "price": 2.0,
+      "image": "assets/images/bevande/moretti.jpg"
     },
     {
       "category": "bibite",
       "name": "Birra Heineken 66 cl",
-      "price": 3.0
+      "price": 3.0,
+      "image": "assets/images/bevande/heineken.jpg"
     },
     {
       "category": "bibite",
       "name": "Birra Heineken 33 cl",
-      "price": 2.0
+      "price": 2.0,
+      "image": "assets/images/bevande/heineken.jpg"
     },
     {
       "category": "bibite",
@@ -899,7 +904,8 @@
     {
       "category": "bibite",
       "name": "Birra Tennent's 33 cl",
-      "price": 3.5
+      "price": 3.5,
+      "image": "assets/images/bevande/tennents.jpg"
     }
   ]
 }
