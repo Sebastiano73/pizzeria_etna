@@ -870,7 +870,8 @@
     {
       "category": "bibite",
       "name": "Acqua naturale o frizzante 0,5 lt",
-      "price": 1.0
+      "price": 1.0,
+      "image": "assets/images/bevande/acqua.png"
     },
     {
       "category": "bibite",
