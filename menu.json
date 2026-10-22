@@ -751,25 +751,51 @@
   "calzoniPane": [
     {
       "category": "calzoni",
+      "name": "Calzone Pistacotto",
+      "ingredients": [
+        "mozzarella",
+        "pesto di pistacchio",
+        "prosciutto cotto",
+        "provola"
+      ],
+      "price": 9.0,
+      "pistacchio": true
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Pistacrock",
+      "ingredients": [
+        "mozzarella",
+        "pesto di pistacchio",
+        "porcini*",
+        "salsiccia",
+        "granella di pistacchio"
+      ],
+      "price": 9.5,
+      "pistacchio": true
+    },
+    {
+      "category": "calzoni",
+      "name": "Calzone Pistaspeck",
+      "ingredients": [
+        "mozzarella",
+        "pesto di pistacchio",
+        "speck",
+        "cipollina"
+      ],
+      "price": 9.5,
+      "pistacchio": true
+    },
+    {
+      "category": "calzoni",
       "name": "Calzone Semplice",
       "ingredients": [
         "mozzarella",
         "salsa di pomodoro",
-        "prosciutto cotto"
-      ],
-      "price": 7.0
-    },
-    {
-      "category": "calzoni",
-      "name": "Calzone Verde",
-      "ingredients": [
-        "salsa di pomodoro",
-        "mozzarella",
-        "spinaci",
-        "olive",
+        "prosciutto cotto",
         "olio evo"
       ],
-      "price": 7.0
+      "price": 7.5
     },
     {
       "category": "calzoni",
@@ -782,41 +808,19 @@
         "sale",
         "olio evo"
       ],
-      "price": 8.0
+      "price": 8.5
     },
     {
       "category": "calzoni",
-      "name": "Calzone Pistacrock",
+      "name": "Calzone Verde",
       "ingredients": [
+        "salsa di pomodoro",
         "mozzarella",
-        "pesto di pistacchio",
-        "porcini",
-        "salsiccia",
-        "granella di pistacchio"
+        "spinaci*",
+        "olive",
+        "olio evo"
       ],
-      "price": 10.0
-    },
-    {
-      "category": "calzoni",
-      "name": "Calzone Pistacotto",
-      "ingredients": [
-        "mozzarella",
-        "pesto di pistacchio",
-        "prosciutto cotto",
-        "provola"
-      ],
-      "price": 9.0
-    },
-    {
-      "category": "calzoni",
-      "name": "Calzone Pistaspeck",
-      "ingredients": [
-        "mozzarella",
-        "pesto di pistacchio",
-        "speck",
-        "cipollina"
-      ],
-      "price": 9.5
+      "price": 7.5
     },
     {
       "category": "paneCondito",
@@ -929,11 +933,49 @@
         "olive",
         "olio evo"
       ],
-      "price": 8.0
+      "price": 7.5
     },
     {
       "category": "pizzoloEtna",
-      "name": "Prosciutto crudo",
+      "name": "Al Pistacchio",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "salsiccia",
+        "grana infornata",
+        "parmigiano gratinato"
+      ],
+      "price": 8.5,
+      "pistacchio": true
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Grigliata",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "zucchine",
+        "peperoni",
+        "grana infornato",
+        "olio evo"
+      ],
+      "price": 7.5
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Monti Silvestri",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "mortadella",
+        "pomodoro fresco"
+      ],
+      "price": 8.5,
+      "pistacchio": true
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Prosciutto Crudo",
       "ingredients": [
         "mozzarella",
         "pomodoro fresco",
@@ -941,7 +983,34 @@
         "olive",
         "olio evo"
       ],
+      "price": 7.5
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Rustica",
+      "ingredients": [
+        "pomodoro fresco",
+        "mozzarella",
+        "olive",
+        "salame",
+        "uovo",
+        "olio evo"
+      ],
       "price": 8.0
+    },
+    {
+      "category": "pizzoloEtna",
+      "name": "Sicilia Food Porn",
+      "ingredients": [
+        "pesto di pistacchio",
+        "mozzarella",
+        "provola",
+        "coppa del suino nero",
+        "grana infornato",
+        "scaglie di mandorle"
+      ],
+      "price": 9.5,
+      "pistacchio": true
     },
     {
       "category": "pizzoloEtna",
@@ -953,67 +1022,37 @@
         "cipollina",
         "olio evo"
       ],
-      "price": 8.0
+      "price": 7.5
     },
     {
       "category": "pizzoloEtna",
-      "name": "Al Pistacchio",
+      "name": "Parmigiana",
       "ingredients": [
-        "pesto di pistacchio",
         "mozzarella",
-        "salsiccia",
-        "grana infornato",
+        "salsa di pomodoro",
+        "uovo",
+        "prosciutto cotto",
+        "melenzane fritte",
+        "parmigiano gratinato",
         "olio evo"
       ],
-      "price": 9.0
+      "price": 8.0,
+      "new": true
     },
     {
       "category": "pizzoloEtna",
-      "name": "Sicilia Food Porn",
+      "name": "Formaggioso",
       "ingredients": [
-        "pesto di pistacchio",
+        "crema cacio e pepe",
         "mozzarella",
-        "provola",
-        "coppa di suino nero",
-        "grana infornato",
-        "scaglie di mandorle"
+        "gorgonzola",
+        "edamer",
+        "parmigiano gratinato",
+        "pomodorini secchi",
+        "olio evo"
       ],
-      "price": 10.0
-    },
-    {
-      "category": "pizzoloEtna",
-      "name": "Grigliata",
-      "ingredients": [
-        "pomodoro fresco",
-        "mozzarella",
-        "zucchine",
-        "peperoni",
-        "grana"
-      ],
-      "price": 8.5
-    },
-    {
-      "category": "pizzoloEtna",
-      "name": "Monti Silvestri",
-      "ingredients": [
-        "pesto di pistacchio",
-        "mozzarella",
-        "mortadella",
-        "pomodoro fresco"
-      ],
-      "price": 9.0
-    },
-    {
-      "category": "pizzoloEtna",
-      "name": "Rustica",
-      "ingredients": [
-        "pomodoro fresco",
-        "mozzarella",
-        "olive",
-        "salame",
-        "uovo"
-      ],
-      "price": 8.0
+      "price": 9.0,
+      "new": true
     },
     {
       "category": "pizzoloDolce",
@@ -1021,9 +1060,9 @@
       "ingredients": [
         "nutella",
         "zucchero a velo",
-        "granella di nocciola"
+        "granella di nocciole"
       ],
-      "price": 7.0
+      "price": 6.5
     },
     {
       "category": "pizzoloDolce",
@@ -1031,9 +1070,10 @@
       "ingredients": [
         "crema di pistacchio",
         "zucchero a velo",
-        "granella di nocciola"
+        "granella di pistacchio"
       ],
-      "price": 8.0
+      "price": 7.0,
+      "pistacchio": true
     },
     {
       "category": "stuzzicheria",
