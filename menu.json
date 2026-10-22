@@ -1,5 +1,5 @@
 {
-  "versione": "21/10/2026",
+  "versione": "22/10/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -736,11 +736,6 @@
         "pepe"
       ],
       "price": 8.5
-    },
-    {
-      "category": "stuzzicheria",
-      "name": "Patatine fritte",
-      "price": 2.5
     }
   ],
   "pizzoli": [
@@ -858,6 +853,11 @@
         "granella di nocciola"
       ],
       "price": 8.0
+    },
+    {
+      "category": "stuzzicheria",
+      "name": "Patatine fritte",
+      "price": 2.5
     }
   ],
   "bibite": [
@@ -870,8 +870,7 @@
     {
       "category": "bibite",
       "name": "Acqua naturale o frizzante 0,5 lt",
-      "price": 1.0,
-      "image": "assets/images/bevande/acqua.png"
+      "price": 1.0
     },
     {
       "category": "bibite",
