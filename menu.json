@@ -580,6 +580,93 @@
       "priceMaxi": 18.0
     }
   ],
+  "gourmet": [
+    {
+      "category": "pizzeGourmet",
+      "name": "Sanremo 2023",
+      "ingredients": [
+        "crema di zucchine",
+        "zucchine fritte",
+        "pomodoro ciliegino",
+        "ricotta salata",
+        "mandorle tostate",
+        "basilico"
+      ],
+      "price": 11.0,
+      "image": "assets/images/gourmet/sanremo2023.png"
+    },
+    {
+      "category": "pizzeGourmet",
+      "name": "Sanremo 2024",
+      "ingredients": [
+        "crema di melanzane",
+        "mozzarella",
+        "spuma di ricotta salata",
+        "pomodorino fresco",
+        "mandorle",
+        "basilico"
+      ],
+      "price": 11.0,
+      "image": "assets/images/gourmet/sanremo2024.png"
+    },
+    {
+      "category": "pizzeGourmet",
+      "name": "Terra dell'Etna (Top 10)",
+      "ingredients": [
+        "crema di pistacchio",
+        "mozzarella",
+        "guanciale del maiale nero",
+        "chips di parmigiano",
+        "funghi cardoncelli",
+        "mandorle tostate"
+      ],
+      "price": 11.0,
+      "image": "assets/images/gourmet/mondiale2022.png"
+    },
+    {
+      "category": "pizzeGourmet",
+      "name": "Terra Mia (4^ pizza più buona al mondo)",
+      "ingredients": [
+        "crema di carciofi",
+        "mozzarella",
+        "spuma di ricotta salata",
+        "guanciale del maiale nero",
+        "cuor di carciofi",
+        "riduzione di fichi d'India",
+        "mandorle tostate"
+      ],
+      "price": 12.0,
+      "image": "assets/images/gourmet/mondiale2024.png"
+    },
+    {
+      "category": "pizzeGourmet",
+      "name": "Festival di Venezia",
+      "ingredients": [
+        "salsa di pomodoro",
+        "mozzarella di bufala",
+        "parmigiano infornato",
+        "pomodorino secco",
+        "olio evo",
+        "gocce di basilico"
+      ],
+      "price": 11.0,
+      "image": "assets/images/gourmet/venezia2024.jpg"
+    },
+    {
+      "category": "pizzeGourmet",
+      "name": "Sanremo 2025",
+      "ingredients": [
+        "crema cacio e pepe",
+        "mozzarella",
+        "salsiccia",
+        "pomodori secchi",
+        "noci",
+        "basilico"
+      ],
+      "price": 11.0,
+      "image": "assets/images/gourmet/sanremo2025.png"
+    }
+  ],
   "calzoniPane": [
     {
       "category": "calzoni",
