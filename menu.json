@@ -1,5 +1,5 @@
 {
-  "versione": "22/10/2026",
+  "versione": "23/10/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -9,7 +9,8 @@
         "olio evo"
       ],
       "price": 5.0,
-      "priceMaxi": 10.0
+      "priceMaxi": 10.0,
+      "image": "assets/images/pizze/pizza-biancaneve.webp"
     },
     {
       "category": "pizzeClassiche",
@@ -22,7 +23,8 @@
         "olio evo"
       ],
       "price": 8.5,
-      "priceMaxi": 17.0
+      "priceMaxi": 17.0,
+      "image": "assets/images/pizze/pizza-bresaola.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -34,7 +36,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-bufala.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -152,7 +155,7 @@
       ],
       "price": 5.0,
       "priceMaxi": 10.0,
-      "image": "assets/images/pizze/margherita.jpg"
+      "image": "assets/images/pizze/pizza-margherita.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -946,6 +949,7 @@
         "parmigiano gratinato"
       ],
       "price": 8.5,
+      "image": "assets/images/pizze/pizzolo-pistacchio.jpg",
       "pistacchio": true
     },
     {
