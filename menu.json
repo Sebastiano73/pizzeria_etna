@@ -1,5 +1,5 @@
 {
-  "versione": "24/10/2026",
+  "versione": "25/10/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -51,7 +51,8 @@
         "olio evo"
       ],
       "price": 7.5,
-      "priceMaxi": 15.0
+      "priceMaxi": 15.0,
+      "image": "assets/images/pizze/pizza-capricciosa.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -65,7 +66,8 @@
         "olio evo"
       ],
       "price": 7.0,
-      "priceMaxi": 15.0
+      "priceMaxi": 15.0,
+      "image": "assets/images/pizze/pizza-cipollina.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -78,7 +80,8 @@
         "olio evo"
       ],
       "price": 7.5,
-      "priceMaxi": 15.0
+      "priceMaxi": 15.0,
+      "image": "assets/images/pizze/pizza-contadina.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -91,7 +94,8 @@
         "olio evo"
       ],
       "price": 7.5,
-      "priceMaxi": 15.0
+      "priceMaxi": 15.0,
+      "image": "assets/images/pizze/pizza-dietetica.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -104,7 +108,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-etna.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -145,7 +150,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-gustosa.jpg"
     },
     {
       "category": "pizzeClassiche",
