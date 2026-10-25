@@ -1115,7 +1115,8 @@
     {
       "category": "stuzzicheria",
       "name": "Patatine fritte",
-      "price": 2.5
+      "price": 2.5,
+      "image": "assets/images/pizze/patatine.jpg"
     }
   ],
   "bibite": [
