@@ -1,5 +1,5 @@
 {
-  "versione": "25/10/2026",
+  "versione": "27/10/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -1116,7 +1116,7 @@
       "category": "stuzzicheria",
       "name": "Patatine fritte",
       "price": 2.5,
-      "image": "assets/images/pizze/patatine.jpg"
+      "image": "assets/images/pizze/patatine.png"
     }
   ],
   "bibite": [
