@@ -177,7 +177,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-montanara.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -234,7 +235,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-pesto.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -566,7 +568,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-rucola.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -580,7 +583,8 @@
         "olio evo"
       ],
       "price": 9.0,
-      "priceMaxi": 18.0
+      "priceMaxi": 18.0,
+      "image": "assets/images/pizze/pizza-saporita.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -595,7 +599,8 @@
         "olio evo"
       ],
       "price": 8.5,
-      "priceMaxi": 17.0
+      "priceMaxi": 17.0,
+      "image": "assets/images/pizze/pizza-sesamo.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -609,7 +614,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0
+      "priceMaxi": 16.0,
+      "image": "assets/images/pizze/pizza-sfiziosa.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -621,7 +627,8 @@
         "olio evo"
       ],
       "price": 8.5,
-      "priceMaxi": 17.0
+      "priceMaxi": 17.0,
+      "image": "assets/images/pizze/pizza-speciale.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -634,6 +641,7 @@
       ],
       "price": 9.0,
       "priceMaxi": 18.0,
+      "image": "assets/images/pizze/pizza-speck.jpg",
       "pistacchio": true
     },
     {
