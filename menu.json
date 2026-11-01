@@ -1,5 +1,5 @@
 {
-  "versione": "27/10/2026",
+  "versione": "01/11/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -177,8 +177,7 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0,
-      "image": "assets/images/pizze/pizza-montanara.jpg"
+      "priceMaxi": 16.0
     },
     {
       "category": "pizzeClassiche",
@@ -235,8 +234,7 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0,
-      "image": "assets/images/pizze/pizza-pesto.jpg"
+      "priceMaxi": 16.0
     },
     {
       "category": "pizzeClassiche",
@@ -568,8 +566,7 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0,
-      "image": "assets/images/pizze/pizza-rucola.jpg"
+      "priceMaxi": 16.0
     },
     {
       "category": "pizzeSpeciali",
@@ -583,8 +580,7 @@
         "olio evo"
       ],
       "price": 9.0,
-      "priceMaxi": 18.0,
-      "image": "assets/images/pizze/pizza-saporita.jpg"
+      "priceMaxi": 18.0
     },
     {
       "category": "pizzeSpeciali",
@@ -599,8 +595,7 @@
         "olio evo"
       ],
       "price": 8.5,
-      "priceMaxi": 17.0,
-      "image": "assets/images/pizze/pizza-sesamo.jpg"
+      "priceMaxi": 17.0
     },
     {
       "category": "pizzeSpeciali",
@@ -614,8 +609,7 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 16.0,
-      "image": "assets/images/pizze/pizza-sfiziosa.jpg"
+      "priceMaxi": 16.0
     },
     {
       "category": "pizzeSpeciali",
@@ -627,8 +621,7 @@
         "olio evo"
       ],
       "price": 8.5,
-      "priceMaxi": 17.0,
-      "image": "assets/images/pizze/pizza-speciale.jpg"
+      "priceMaxi": 17.0
     },
     {
       "category": "pizzeSpeciali",
@@ -641,7 +634,6 @@
       ],
       "price": 9.0,
       "priceMaxi": 18.0,
-      "image": "assets/images/pizze/pizza-speck.jpg",
       "pistacchio": true
     },
     {
@@ -656,7 +648,8 @@
         "olio evo"
       ],
       "price": 8.0,
-      "priceMaxi": 17.0
+      "priceMaxi": 17.0,
+      "image": "assets/images/pizze/pizza-truscia.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -670,7 +663,8 @@
         "olio evo"
       ],
       "price": 8.5,
-      "priceMaxi": 17.0
+      "priceMaxi": 17.0,
+      "image": "assets/images/pizze/pizza-tutticrudo.jpg"
     },
     {
       "category": "pizzeSpeciali",
@@ -686,6 +680,7 @@
       ],
       "price": 10.0,
       "priceMaxi": 20.0,
+      "image": "assets/images/pizze/pizza-sasizzacucuzza.jpg",
       "new": true
     },
     {
@@ -702,6 +697,7 @@
       ],
       "price": 10.0,
       "priceMaxi": 20.0,
+      "image": "assets/images/pizze/pizza-melenzanabedda.jpg",
       "new": true
     }
   ],
@@ -803,6 +799,7 @@
         "provola"
       ],
       "price": 9.0,
+      "image": "assets/images/pizze/calzone-pistacotto.jpg",
       "pistacchio": true
     },
     {
@@ -816,6 +813,7 @@
         "granella di pistacchio"
       ],
       "price": 9.5,
+      "image": "assets/images/pizze/calzone-pistacrock.jpg",
       "pistacchio": true
     },
     {
@@ -828,6 +826,7 @@
         "cipollina"
       ],
       "price": 9.5,
+      "image": "assets/images/pizze/calzone-pistaspeck.jpg",
       "pistacchio": true
     },
     {
@@ -839,7 +838,8 @@
         "prosciutto cotto",
         "olio evo"
       ],
-      "price": 7.5
+      "price": 7.5,
+      "image": "assets/images/pizze/calzone-semplice.jpg"
     },
     {
       "category": "calzoni",
@@ -852,7 +852,8 @@
         "sale",
         "olio evo"
       ],
-      "price": 8.5
+      "price": 8.5,
+      "image": "assets/images/pizze/calzone-siciliano.jpg"
     },
     {
       "category": "calzoni",
@@ -864,7 +865,8 @@
         "olive",
         "olio evo"
       ],
-      "price": 7.5
+      "price": 7.5,
+      "image": "assets/images/pizze/calzone-verde.jpg"
     },
     {
       "category": "paneCondito",
@@ -906,7 +908,8 @@
         "origano",
         "pepe"
       ],
-      "price": 8.0
+      "price": 8.0,
+      "image": "assets/images/pizze/pane-patatone.jpg"
     },
     {
       "category": "paneCondito",
@@ -921,7 +924,8 @@
         "origano",
         "pepe"
       ],
-      "price": 8.5
+      "price": 8.5,
+      "image": "assets/images/pizze/pane-rustico.jpg"
     },
     {
       "category": "paneCondito",
@@ -934,7 +938,8 @@
         "olive",
         "origano"
       ],
-      "price": 8.5
+      "price": 8.5,
+      "image": "assets/images/pizze/pane-semplice.jpg"
     },
     {
       "category": "paneCondito",
@@ -950,7 +955,8 @@
         "origano",
         "pepe"
       ],
-      "price": 8.5
+      "price": 8.5,
+      "image": "assets/images/pizze/pane-siciliano.jpg"
     },
     {
       "category": "paneCondito",
@@ -964,7 +970,8 @@
         "origano",
         "pepe"
       ],
-      "price": 8.0
+      "price": 8.0,
+      "image": "assets/images/pizze/pane-verde.jpg"
     }
   ],
   "pizzoli": [
