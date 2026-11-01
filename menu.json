@@ -887,6 +887,7 @@
         "pomodori secchi"
       ],
       "price": 9.5,
+      "image": "assets/images/pizze/pane-brontese.jpg",
       "new": true,
       "pistacchio": true
     },
@@ -902,7 +903,8 @@
         "origano",
         "pepe"
       ],
-      "price": 8.5
+      "price": 8.5,
+      "image": "assets/images/pizze/pane-etna.jpg"
     },
     {
       "category": "paneCondito",
@@ -992,7 +994,8 @@
         "olive",
         "olio evo"
       ],
-      "price": 7.5
+      "price": 7.5,
+      "image": "assets/images/pizze/pizzolo-acciughe.jpg"
     },
     {
       "category": "pizzoloEtna",
@@ -1005,7 +1008,7 @@
         "parmigiano gratinato"
       ],
       "price": 8.5,
-      "image": "assets/images/pizze/pizzolo-pistacchio.jpg",
+      "image": "assets/images/pizze/pizzolo-alpistacchio.jpg",
       "pistacchio": true
     },
     {
@@ -1019,7 +1022,8 @@
         "grana infornato",
         "olio evo"
       ],
-      "price": 7.5
+      "price": 7.5,
+      "image": "assets/images/pizze/pizzolo-grigliata.jpg"
     },
     {
       "category": "pizzoloEtna",
@@ -1031,6 +1035,7 @@
         "pomodoro fresco"
       ],
       "price": 8.5,
+      "image": "assets/images/pizze/pizzolo-montisilvestri.jpg",
       "pistacchio": true
     },
     {
@@ -1043,7 +1048,8 @@
         "olive",
         "olio evo"
       ],
-      "price": 7.5
+      "price": 7.5,
+      "image": "assets/images/pizze/pizzolo-prosciuttocrudo.jpg"
     },
     {
       "category": "pizzoloEtna",
@@ -1056,7 +1062,8 @@
         "uovo",
         "olio evo"
       ],
-      "price": 8.0
+      "price": 8.0,
+      "image": "assets/images/pizze/pizzolo-rustica.jpg"
     },
     {
       "category": "pizzoloEtna",
@@ -1070,6 +1077,7 @@
         "scaglie di mandorle"
       ],
       "price": 9.5,
+      "image": "assets/images/pizze/pizzolo-sicilia.jpg",
       "pistacchio": true
     },
     {
@@ -1082,7 +1090,8 @@
         "cipollina",
         "olio evo"
       ],
-      "price": 7.5
+      "price": 7.5,
+      "image": "assets/images/pizze/pizzolo-tonno.jpg"
     },
     {
       "category": "pizzoloEtna",
@@ -1097,6 +1106,7 @@
         "olio evo"
       ],
       "price": 8.0,
+      "image": "assets/images/pizze/pizzolo-parmigiana.jpg",
       "new": true
     },
     {
@@ -1112,6 +1122,7 @@
         "olio evo"
       ],
       "price": 9.0,
+      "image": "assets/images/pizze/pizzolo-formaggioso.jpg",
       "new": true
     },
     {
@@ -1133,6 +1144,7 @@
         "granella di pistacchio"
       ],
       "price": 7.0,
+      "image": "assets/images/pizze/pizzolo-pistacchio.jpg",
       "pistacchio": true
     },
     {
