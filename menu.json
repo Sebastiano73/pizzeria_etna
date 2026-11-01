@@ -1133,7 +1133,8 @@
         "zucchero a velo",
         "granella di nocciole"
       ],
-      "price": 6.5
+      "price": 6.5,
+      "image": "assets/images/pizze/pizzolo-nutella.jpg"
     },
     {
       "category": "pizzoloDolce",
