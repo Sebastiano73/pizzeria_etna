@@ -1,5 +1,5 @@
 {
-  "versione": "01/11/2026",
+  "versione": "02/11/2026",
   "pizze": [
     {
       "category": "pizzeClassiche",
@@ -10,7 +10,7 @@
       ],
       "price": 5.0,
       "priceMaxi": 10.0,
-      "image": "assets/images/pizze/pizza-biancaneve.webp"
+      "image": "assets/images/pizze/pizza-biancaneve.jpg"
     },
     {
       "category": "pizzeClassiche",
@@ -261,7 +261,7 @@
       ],
       "price": 4.5,
       "priceMaxi": 9.0,
-      "image": "assets/images/pizze/pizza-pizzaiola.jpg"
+      "image": "assets/images/pizze/pizza-pizzaiola.png"
     },
     {
       "category": "pizzeClassiche",
@@ -519,7 +519,7 @@
       "ingredients": [
         "pesto di pistacchio",
         "mozzarella",
-        "porcini"
+        "porcini*"
       ],
       "price": 9.0,
       "priceMaxi": 18.0,
@@ -750,7 +750,9 @@
         "mandorle tostate"
       ],
       "price": 11.0,
-      "image": "assets/images/gourmet/mondiale2022.png"
+      "image": "assets/images/gourmet/mondiale2022.png",
+      "new": true,
+      "pistacchio": true
     },
     {
       "category": "pizzeGourmet",
@@ -1150,7 +1152,7 @@
     },
     {
       "category": "stuzzicheria",
-      "name": "Patatine fritte",
+      "name": "Patatine fritte*",
       "price": 2.5,
       "image": "assets/images/pizze/patatine.png"
     }
@@ -1165,7 +1167,7 @@
     {
       "category": "bibite",
       "name": "Acqua naturale o frizzante 0,5 lt",
-      "price": 1.0,
+      "price": 1.5,
       "image": "assets/images/bevande/acqua.png"
     },
     {
@@ -1183,26 +1185,32 @@
     {
       "category": "bibite",
       "name": "Birra Heineken 66 cl",
-      "price": 3.0,
+      "price": 3.5,
       "image": "assets/images/bevande/heineken.jpg"
     },
     {
       "category": "bibite",
       "name": "Birra Heineken 33 cl",
-      "price": 2.0,
+      "price": 2.5,
       "image": "assets/images/bevande/heineken.jpg"
     },
     {
       "category": "bibite",
-      "name": "Birra Ceres 33 cl",
-      "price": 3.5,
-      "image": "assets/images/bevande/ceres.png"
+      "name": "Birra Tennent's 33 cl",
+      "price": 4.0,
+      "image": "assets/images/bevande/tennents.jpg"
     },
     {
       "category": "bibite",
-      "name": "Birra Tennent's 33 cl",
-      "price": 3.5,
-      "image": "assets/images/bevande/tennents.jpg"
+      "name": "Birra Leffe Rossa 33 cl",
+      "price": 4.0,
+      "image": "assets/images/bevande/leffe_rossa.jpg"
+    },
+    {
+      "category": "bibite",
+      "name": "Lattine (Fanta, Coca Cola, Sprite, Chinotto)",
+      "price": 2.0,
+      "image": "assets/images/bevande/lattine.jpg"
     }
   ]
 }
